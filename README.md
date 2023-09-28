@@ -1,4 +1,4 @@
-# The Magnificant Movie Tool$^{tm}$
+# The Magnificant Movie Tool
 
 Ever felt like you want to watch a movie but **don't know where to start?**
 
