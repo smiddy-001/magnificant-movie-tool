@@ -1,0 +1,21 @@
+[
+    {
+      "title": "The Virgin Suicides",
+      "description": "A Sofia Coppola film about two lovers intertwined in a spicy conflict of death, love, and romance",
+      "src": "../public/images/eternal_sunshine_of_the_spotless_mind.jpg",
+      "alt": "movie title",
+      "directors": ["Tarantino"],
+      "actors": ["Johnny Sicaro", "Mark Zuckerberg"],
+      "trailerUrl": "https://www.youtube.com/watch?v=fbz4-du3Ayg&t=26s"
+    },
+    {
+      "title": "Another Movie",
+      "description": "Description of another movie",
+      "src": "../public/images/la_la_land.jpg",
+      "alt": "Another movie title",
+      "directors": ["Director Name"],
+      "actors": ["Actor 1", "Actor 2"],
+      "trailerUrl": "https://www.youtube.com/watch?v=0pdqf4P9MB8"
+    }
+  ]
+  
