@@ -2,7 +2,7 @@
 
 Ever felt like you want to watch a movie but **don't know where to start?**
 
-> $\text{WELL, BOY DO I HAVE A SOLUTION FOR YOU}$
+$\text{WELL, BOY DO I HAVE A SOLUTION FOR YOU}$
 
 Introducting my project, this is a tool that stores your ***favourite*** movies, uses some *funky* techniques to get some useful information on such movies, **release date**, **actors**, and some silly shots and scenes to **display** and help you out when you are stuck on what movie you want to be watching.
 
